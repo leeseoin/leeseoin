@@ -1,32 +1,84 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=69cee8&height=120&text=&animation=&fontColor=000000&fontSize=70" />
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hello! My name is Seoin Lee  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> I am a developer who enjoys exploring and implementing new technologies. Currently, I am focused on the intersection of backend development and AI. </div> 
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div  align= "center"> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">
-          <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
-          <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-          <br/></div>
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link="> </a>
-         <a href=> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link="> </a>
-         <a href=mailto:> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:"> </a>
-         <a href=> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link="> </a>
-          </div>  <br> 
-    <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleeseoin%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
-       </div> 
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=leeseoin&bg_color=180,6dd4ee,00000000&title_color=000000&text_color=000000"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeseoin&layout=compact&bg_color=180,6dd4ee,00000000&title_color=000000&text_color=000000"
-           /> </div> 
-    </div>
-    
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Seoin%20Lee&fontSize=60&animation=fadeIn&fontAlignY=38&fontColor=e0e0e0" />
+</div>
+
+<div align="center">
+  <strong>Backend Engineer & AI Enthusiast</strong><br/>
+  Building scalable backends and integrating AI into real-world systems.
+</div>
+
+<br/>
+
+## About Me
+
+I'm a developer who loves connecting **AI** with **Backend Engineering** to create practical, production-ready solutions.
+
+Currently focused on:
+
+- **LLM Agents & RAG** — designing retrieval-augmented pipelines and autonomous agent workflows
+- **Scalable Backend Architecture** — building robust APIs and distributed systems
+- **MLOps & AI Integration** — bridging the gap between research and deployment
+
+---
+
+## Tech Stacks
+
+### Language & Framework
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white" />
+</p>
+
+### AI & Data
+
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=LangChain&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=OpenAI&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=HuggingFace&logoColor=black" />
+</p>
+
+### Infrastructure & Database
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white" />
+</p>
+
+---
+
+## Projects
+
+| Project                       | Description                       | Stack                         |
+| ----------------------------- | --------------------------------- | ----------------------------- |
+| **[Project Name](repo-link)** | Brief description of what it does | Python, FastAPI, LangChain    |
+| **[Project Name](repo-link)** | Brief description of what it does | Java, Spring Boot, PostgreSQL |
+
+> Replace the above with your actual projects!
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leeseoin&show_icons=true&theme=tokyonight&hide_border=true" alt="leeseoin's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeseoin&layout=compact&theme=tokyonight&hide_border=true" alt="leeseoin's top langs" />
+</p>
+
+---
+
+## Contact
+
+<p align="center">
+  <a href="mailto:leeseoin@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+  <a href="https://velog.io/@leeseoin/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white" /></a>
+</p>
+
+<p align="right">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleeseoin&count_bg=%2369cee8&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false" />
+</p>
