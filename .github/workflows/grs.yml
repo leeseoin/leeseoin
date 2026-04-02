@@ -12,9 +12,9 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-        with:
-          ref: main
-          fetch-depth: 0
+
+      - name: Pull latest changes
+        run: git pull origin main
 
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v1
@@ -39,6 +39,5 @@ jobs:
           git add profile/*.svg
           git diff --staged --quiet && echo "No changes" && exit 0
           git commit -m "Update README cards"
-          git fetch origin main
-          git rebase origin/main
-          git push
+          git pull --rebase origin main
+          git push origin main
