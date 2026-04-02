@@ -54,20 +54,18 @@ Currently focused on:
 
 ## Projects
 
-| Project                       | Description                       | Stack                         |
-| ----------------------------- | --------------------------------- | ----------------------------- |
-| **[Project Name](repo-link)** | Brief description of what it does | Python, FastAPI, LangChain    |
-| **[Project Name](repo-link)** | Brief description of what it does | Java, Spring Boot, PostgreSQL |
-
-> Replace the above with your actual projects!
+| Project                                                                 | Description                                               | Stack                                  |
+| ----------------------------------------------------------------------- | --------------------------------------------------------- | -------------------------------------- |
+| **[CCTV-Streaming](https://github.com/leeseoin/cctv_streaming_webRTC)** | Real-time CCTV streaming system with WebRTC & PTZ control | Java, Spring Boot, go2rtc, WebRTC, HLS |
+| **[KobWeb_Project](https://github.com/leeseoin/kobweb_project)**        | Web application built with Kobweb framework               | Spring Boot, RAG, LLama.cpp, FastAPI   |
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leeseoin&show_icons=true&theme=tokyonight&hide_border=true" alt="leeseoin's github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeseoin&layout=compact&theme=tokyonight&hide_border=true" alt="leeseoin's top langs" />
+  <img src="./profile/stats.svg" alt="leeseoin's github stats" />
+  <img src="./profile/top-langs.svg" alt="leeseoin's top langs" />
 </p>
 
 ---
