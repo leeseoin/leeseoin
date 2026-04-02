@@ -68,6 +68,14 @@ Currently focused on:
   <img src="./profile/top-langs.svg" alt="leeseoin's top langs" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leeseoin&theme=tokyonight&hide_border=true" alt="leeseoin's streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leeseoin&theme=tokyo-night&hide_border=true" alt="leeseoin's activity graph" />
+</p>
+
 ---
 
 ## Contact
@@ -80,3 +88,7 @@ Currently focused on:
 <p align="right">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleeseoin&count_bg=%2369cee8&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false" />
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=footer" />
+</div>
